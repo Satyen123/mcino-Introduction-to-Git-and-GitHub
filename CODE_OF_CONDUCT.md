@@ -120,6 +120,9 @@ https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
+## Enforcement Guidelines
+
+Community leaders may take appropriate actions such as warnings, temporary bans, or permanent bans for violations of this Code of Conduct.
 
 [homepage]: https://www.contributor-covenant.org
 

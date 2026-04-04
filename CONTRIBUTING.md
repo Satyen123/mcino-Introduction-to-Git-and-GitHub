@@ -1,5 +1,3 @@
-# Contributing Guidelines
-
-Thank you for your interest in contributing!
+# Contributing
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.

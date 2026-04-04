@@ -1,5 +1,3 @@
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/433118ca-2aa4-4a26-9047-cea826d3871d" /># Introduction to Git and GitHub
-
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.

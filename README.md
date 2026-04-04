@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/433118ca-2aa4-4a26-9047-cea826d3871d" /># Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
@@ -15,5 +15,5 @@ Output
 
 _© 2022 XYZ, Inc._
 This is a bug fix update
-This is a merge test
-This is final merge line
+Final merge line added now
+

@@ -15,3 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 This is a bug fix update
+This is a merge test
